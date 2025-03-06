@@ -20,9 +20,13 @@ The dataset contains Netflix user reviews with the following columns:
 ## 📌 Steps in the Analysis  
 
 ✔ STEP-1: IMPORTING NECESSARY PACKAGES 
+
 ✔ STEP-2: READING THE NETFLIX DATASET  
-✔ STEP-3: PRE-PROCESSING NETFLIX DATASET  
+
+✔ STEP-3: PRE-PROCESSING NETFLIX DATASET 
+
 ✔ SETP-4: ANALYSING THE DATASET
+
 ✔ STEP-5: EXPLORATORY DATASET ANALYSIS OF NETFLIX DATASET
 
 ✔ STEP-6: ADD A NEW COLUMN 'sentiment' TO THE EXISTING DATASET
@@ -43,12 +47,15 @@ The dataset contains Netflix user reviews with the following columns:
 
 **1️⃣ Run in Google Colab**  
 Click the link below to open the **Colab Notebook** and run it directly:  
+
 [🔗 Open Colab Notebook] https://colab.research.google.com/github/tanushreer-7/Netflix-Data-Sentimental-Analysis/blob/main/Sentimental_Analysis.ipynb
 
 **2️⃣ Run in Jupyter**
+
 Open Netflix_Sentiment_Analysis.ipynb in Jupyter or Colab and run the cells step by step.
 
 **3️⃣ Run Locally** 
+
   🔹 Clone the repository  
 ```sh
 git clone https://github.com/your-username/netflix-sentiment-analysis.git
