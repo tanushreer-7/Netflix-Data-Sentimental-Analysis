@@ -5,7 +5,7 @@ This project performs **sentiment analysis** on Netflix user reviews to determin
 ---
 
 ## 📂 Dataset  
-Download the dataset here - ([https://github.com/tanushreer-7/Netflix-Data-Sentimental-Analysis/blob/main/dataset.zip]) and unzip to read the file
+Download the dataset here - https://github.com/tanushreer-7/Netflix-Data-Sentimental-Analysis/blob/main/dataset.zip and unzip to read the file
 
 The dataset contains Netflix user reviews with the following columns:  
 - `reviewId` – Unique ID of the review  
@@ -37,7 +37,7 @@ The dataset contains Netflix user reviews with the following columns:
 
 ### **1️⃣ Run in Google Colab**  
 Click the link below to open the **Colab Notebook** and run it directly:  
-[🔗 Open Colab Notebook] ([https://colab.research.google.com/github/tanushreer-7/Netflix-Data-Sentimental-Analysis/blob/main/Sentimental_Analysis.ipynb])
+[🔗 Open Colab Notebook] https://colab.research.google.com/github/tanushreer-7/Netflix-Data-Sentimental-Analysis/blob/main/Sentimental_Analysis.ipynb
 
 **2️⃣ Run the notebook**
 Open Netflix_Sentiment_Analysis.ipynb in Jupyter or Colab and run the cells step by step.
