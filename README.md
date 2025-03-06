@@ -2,7 +2,9 @@
 
 This project performs **sentiment analysis** on Netflix user reviews to determine whether users have **Positive, Negative, or Neutral** opinions. The analysis uses **machine learning (Naive Bayes) approaches** to classify reviews.  
 
+
 ---
+
 
 ## 📂 Dataset  
 Download the dataset here - https://github.com/tanushreer-7/Netflix-Data-Sentimental-Analysis/blob/main/dataset.zip and unzip to read the file
@@ -15,7 +17,9 @@ The dataset contains Netflix user reviews with the following columns:
 - `thumbsUpCount` – Number of likes on the review  
 - `at` – Timestamp of the review  
 
+
 ---
+
 
 ## 📌 Steps in the Analysis  
 
@@ -41,14 +45,15 @@ The dataset contains Netflix user reviews with the following columns:
 
 ✔ STEP-10:DISPLAY THE CONFUSION MATRIX
 
+
 ---
+
 
 ## 🚀 How to Run  
 
 **1️⃣ Run in Google Colab**  
-Click the link below to open the **Colab Notebook** and run it directly:  
-
-[🔗 Open Colab Notebook] https://colab.research.google.com/github/tanushreer-7/Netflix-Data-Sentimental-Analysis/blob/main/Sentimental_Analysis.ipynb
+Click the link below to Open Colab Notebook 🔗 and run it directly:  
+https://colab.research.google.com/github/tanushreer-7/Netflix-Data-Sentimental-Analysis/blob/main/Sentimental_Analysis.ipynb
 
 **2️⃣ Run in Jupyter**
 
