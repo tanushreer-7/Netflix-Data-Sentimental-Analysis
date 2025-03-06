@@ -36,7 +36,7 @@ The dataset contains Netflix user reviews with the following columns:
 
 ### **🔹 Run in Google Colab**  
 Click the link below to open the **Colab Notebook** and run it directly:  
-[🔗 Open Colab Notebook](https://colab.research.google.com/drive/1MRwsaAxfrLJo9QrAsOIGTuWhrk1txNuj)  
+[🔗 Open Colab Notebook]([https://colab.research.google.com/drive/1MRwsaAxfrLJo9QrAsOIGTuWhrk1txNuj](https://colab.research.google.com/github/tanushreer-7/Netflix-Data-Sentimental-Analysis/blob/main/Sentimental_Analysis.ipynb))  
 
 ### **🔹 Run Locally**  
 #### 1️⃣ Clone the repository  
